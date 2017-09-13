@@ -24,9 +24,9 @@
 #chat .msg .text .name.id-29284865 .name,
 #user-rollover.id-29284865 .username,
 #user-rollover.id-29284865.is-staff .info .role span {
-  color: #7DFF7C !important;
+  color: #3ebbbb !important;
 }
 
 #user-rollover.id-29284865.is-staff .thumb {
-  border-color: #7DFF7C !important;
+  border-color: #3ebbbb !important;
 }
