@@ -1,6 +1,6 @@
 /*Bot*/
 .id-29284865>.badge-box>i.bdg, #chat-messages .fromID-29284865 .bdg {
-    background-image: url("");
+    background-image: url("https://i.imgur.com/NoWltA5.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -8,7 +8,7 @@
 
 #user-rollover.id-29284865 .badge-box>i.bdg {
     border-radius: 6px;
-    background-image: url("");
+    background-image: url("https://i.imgur.com/NoWltA5.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
