@@ -1,2 +1,2 @@
-# NCW
+# Nightcore MusicWorld
 Plug :D
