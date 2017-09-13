@@ -1,0 +1,28 @@
+
+{
+    "author": "Gameplayer8850",
+    "colors": {
+        "chat": {
+            "host": "",
+            "cohost": "",
+            "manager": "",
+            "bouncer": "",
+            "residentdj": ""
+        }
+    },
+    "css": {
+        "import": [
+            ""
+        ]
+    },
+    "images": {
+        "background": ""
+    },
+    "rules": {
+        "allowAutojoin": "true",
+        "allowAutorespond": "true",
+        "allowAutowoot": "true",
+        "allowEmotes": "true",
+        "allowShowingMehs": "false"
+    }
+}
