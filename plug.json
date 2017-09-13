@@ -3,11 +3,11 @@
     "author": "Gameplayer8850",
     "colors": {
         "chat": {
-            "host": "",
-            "cohost": "",
-            "manager": "",
-            "bouncer": "",
-            "residentdj": ""
+            "host": "81d4fa",
+            "cohost": "0d47a1",
+            "manager": "80de9a",
+            "bouncer": "81c784",
+            "residentdj": "ff6633"
         }
     },
     "css": {
@@ -16,7 +16,7 @@
         ]
     },
     "images": {
-        "background": ""
+        "background": "https://raw.githubusercontent.com/Gameplayer8850/Armia-H2P/master/img/background.png"
     },
     "rules": {
         "allowAutojoin": "true",
