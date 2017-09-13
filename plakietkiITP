@@ -1,0 +1,32 @@
+/*Bot*/
+.id-29284865>.badge-box>i.bdg, #chat-messages .fromID-29284865 .bdg {
+    background-image: url("");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#user-rollover.id-29284865 .badge-box>i.bdg {
+    border-radius: 6px;
+    background-image: url("");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#chat [data-cid^="29284865-"] span.un.clickable,
+/*.id-29284865 span.un.clickable,*/
+#user-lists .list.room .id-29284865 .name,
+#user-lists .list.room .is-staff.id-29284865 .name,
+#user-lists .list.room .is-dj.id-29284865 .name,
+#user-lists .list.room [class*='role'].id-29284865 .name,
+#chat .msg .text .id-29284865,
+#chat .msg .text .name.id-29284865,
+#chat .msg .text .name.id-29284865 .name,
+#user-rollover.id-29284865 .username,
+#user-rollover.id-29284865.is-staff .info .role span {
+  color: #7DFF7C !important;
+}
+
+#user-rollover.id-29284865.is-staff .thumb {
+  border-color: #7DFF7C !important;
+}
