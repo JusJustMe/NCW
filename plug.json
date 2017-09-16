@@ -16,7 +16,7 @@
         ]
     },
     "images": {
-        "background": "https://rawgit.com/JusJustMe/NCW/master/plag.png"
+        "background": "https://raw.githubusercontent.com/JusJustMe/NCW/master/plag.png"
     },
     "rules": {
         "allowAutojoin": "true",
