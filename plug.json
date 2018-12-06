@@ -12,7 +12,7 @@
     },
     "css": {
         "import": [
-            "https://rawgit.com/JusJustMe/NCW/master/look.css"
+            "https://cdn.jsdelivr.net/gh/JusJustMe/NCW/look.css"
         ]
     },
     "images": {
